@@ -17,7 +17,7 @@
     "gulp-streamify": "^1.0.2",
     "gulp-terser": "^1.2.0",
     "gulp-zip": "^5.0.0",
-    "karma": "^4.3.0",
+    "karma": "^6.3.14",
     "merge-stream": "^2.0.0",
     "path": "^0.12.7",
     "yargs": "^14.0.0"
